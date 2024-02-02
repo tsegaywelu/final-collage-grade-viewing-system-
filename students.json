@@ -1,0 +1,147 @@
+[
+    {
+      "id": "1",
+      "name": "hayalu",
+      "middlename": "ewrw",
+      "lastname": "rw",
+      "age": "",
+      "schoolId": "45",
+      "schoolName": "wr3w",
+      "result": {
+        "eng": "56",
+        "maths": "56",
+        "biology": "56",
+        "tigrigna": "56",
+        "amharic": "56",
+        "chemistry": "56",
+        "physics": "56",
+        "civic": "56",
+        "geography": "56"
+      },
+      "amaharic": "5"
+    },
+    {
+      "id": "2",
+      "name": "ret",
+      "middlename": "ewrw",
+      "lastname": "rw",
+      "age": "",
+      "schoolId": "45",
+      "schoolName": "wr3w",
+      "result": {
+        "eng": "63",
+        "maths": "63",
+        "biology": "45",
+        "tigrigna": "45",
+        "amharic": "23",
+        "chemistry": "04",
+        "physics": "074",
+        "civic": "05",
+        "geography": "07"
+      }
+    },
+    {
+      "id": "3",
+      "name": "you",
+      "middlename": "ewrw",
+      "lastname": "rw",
+      "age": "",
+      "schoolId": "45",
+      "schoolName": "wr3w",
+      "result": {
+        "eng": "63",
+        "maths": "63",
+        "biology": "45",
+        "tigrigna": "45",
+        "amharic": "23",
+        "chemistry": "04",
+        "physics": "074",
+        "civic": "05",
+        "geography": "07"
+      }
+    },
+    {
+      "id": "4",
+      "name": "i am",
+      "middlename": "ewrw",
+      "lastname": "rw",
+      "age": "",
+      "schoolId": "45",
+      "schoolName": "wr3w",
+      "result": {
+        "eng": "63",
+        "maths": "63",
+        "biology": "45",
+        "tigrigna": "45",
+        "amharic": "23",
+        "chemistry": "04",
+        "physics": "074",
+        "civic": "05",
+        "geography": "07"
+      }
+    },
+    {
+      "id": "5",
+      "name": "fwe",
+      "middlename": "ewrw",
+      "lastname": "rw",
+      "age": "",
+      "schoolId": "45",
+      "schoolName": "wr3w",
+      "result": {
+        "eng": "63",
+        "maths": "63",
+        "biology": "45",
+        "tigrigna": "45",
+        "amharic": "23",
+        "chemistry": "04",
+        "physics": "074",
+        "civic": "05",
+        "geography": "07"
+        
+      },
+      "total": 800,
+      "average": 80,
+      "percentile": 90
+    },
+    {
+      "id": "67",
+      "name": "selomon",
+      "middlename": "haylay",
+      "lastname": "kalu",
+      "age": "",
+      "schoolId": "45",
+      "schoolName": "mekelle institute",
+      "result": {
+        "eng": "34",
+        "maths": "23",
+        "biology": "89",
+        "tigrigna": "89",
+        "amharic": "65",
+        "chemistry": "89",
+        "physics": "56",
+        "civic": "78",
+        "geography": "54"
+      }
+    },
+    {
+      "id": "67",
+      "name": "selomon",
+      "middlename": "haylay",
+      "lastname": "kalu",
+      "age": "",
+      "schoolId": "45",
+      "schoolName": "mekelle institute",
+      "result": {
+        "eng": "34",
+        "maths": "23",
+        "biology": "89",
+        "tigrigna": "89",
+        "amharic": "65",
+        "chemistry": "89",
+        "physics": "56",
+        "civic": "78",
+        "geography": "54"
+      }
+    }
+  ]
