@@ -5,12 +5,12 @@ const AdminPage = () => {
   const navigate = useNavigate()
   const [file, setFile] = useState();
   const fr = useRef();
-  useEffect(()=>{
+  /*useEffect(()=>{
     const authToken = localStorage.getItem('token')
     if(!authToken) {                                    
         navigate('/login')
     }
-  }, []) 
+  }, []) */
   return (
     <section className=" w-full mt-12 ">
       {/* <nav className="w-full flex space-x-3 justify-end items-center pr-3">

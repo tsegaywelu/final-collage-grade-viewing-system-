@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const URL = "http://localhost:2300"
- const URL = "http://10.14.30.240:2300"
+ const URL = "http://localhost:2300"
 
 const API_SERVICE = axios.create({
     baseURL: URL,
