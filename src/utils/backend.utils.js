@@ -8,9 +8,11 @@ const API_SERVICE = axios.create({
     timeout: 5000,
 })
 
-export const login = (email, password)=>{
+ export const login = (email, password)=>{
     return API_SERVICE.post('/admin/login', {email, password})
-} 
+}  
+
+
 
 export const createStudent = (student)=>{
     const token = localStorage.getItem('token')
